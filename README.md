@@ -16,8 +16,8 @@ You can explore my previous projects and portfolio here:
 - **Other Tools & Tech:** Git/GitHub, n8n (Workflow Automation)
 
 ### 📫 Let's Connect & Work Together
-- **Mostaql:** [My Mostaql Profile](insert_your_mostaql_link_here)
-- **Freelancer:** [My Freelancer Profile](insert_your_freelancer_link_here))**
+- **Mostaql:** [My Mostaql Profile](https://mostaql.com/u/asmaa_sultan555)
+- **Freelancer:** [My Freelancer Profile](https://www.freelancer.com/dashboard))**
 
 ### 🛠️ Skills & Technologies
 - **Programming Languages:** Python, C++, Java
