@@ -25,7 +25,4 @@ You can explore my previous projects and portfolio here:
 - **Databases:** MySQL
 - **Other Tools & Tech:** Git/GitHub, n8n (Workflow Automation)
 
-### 📫 Let's Connect & Work Together
-- **Mostaql:** [My Mostaql Profile](insert_your_mostaql_link_here)
-- **Freelancer:** [My Freelancer Profile](insert_your_freelancer_link_here)
-- 
+
