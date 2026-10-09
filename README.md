@@ -7,7 +7,7 @@ Passionate about building machine learning models, analyzing data, and designing
 
 ### 🔗 Portfolio
 You can explore my previous projects and portfolio here:
-👉 **[Click here to visit my Portfolio](https://small-ends-turn.loca.lt/)**
+👉 **[Click here to visit my Portfolio](https://diminish-stroller-accuracy.ngrok-free.dev/)**
 
 ### 🛠️ Skills & Technologies
 - **Programming Languages:** Python, C++, Java
