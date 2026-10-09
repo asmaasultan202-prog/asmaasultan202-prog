@@ -4,13 +4,6 @@
 
 Passionate about building machine learning models, analyzing data, and designing databases. I transform ideas into practical technical solutions and offer my services as a freelancer to implement intelligent software projects.
 
-### 🔗 Portfolio
-You can explore my previous projects and portfolio here:
-👉 **[Click here to visit my Portfolio](# Hi there, I'm Asmaa Sultan 👋
-
-**Computer Science & Software Engineering Student | AI & Machine Learning Trainee (DEPI) | Freelance Software Developer**
-
-Passionate about building machine learning models, analyzing data, and designing databases. I transform ideas into practical technical solutions and offer my services as a freelancer to implement intelligent software projects.
 
 ### 🔗 Portfolio
 You can explore my previous projects and portfolio here:
